@@ -8,4 +8,4 @@ RRRRRRRRRR
 # 科学上网
 ## 大多人误解的VPN
 VPN全称“虚拟私人网络（Virtual Private Network）”，VPN是一个统称。VPN是一种加密通讯技术，它被设计出来的目的是数据传输安全和网络匿名。它的出现远早于GFW，所以它不是为了翻墙而生的，它有很多的具体实现，比如PPTP、L2TP、IPSec和openvpn。
-但国家的特有体制加上劳动人民的无穷智慧，VPN逐渐演变为
+<br>但国家的特有体制加上劳动人民的无穷智慧，VPN逐渐演变为<br>
