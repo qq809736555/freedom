@@ -1,6 +1,5 @@
-RRRRRRRRRR
-
-=
+本文的基本介绍
+***
 # 国内网络基本了解
 大家都知道，我们中国对网络的限制比较严格，不是所有的网站咱们都能浏览。国家主要通过GFW([dns劫持](https://baike.baidu.com/item/%E5%9F%9F%E5%90%8D%E5%8A%AB%E6%8C%81/7657893?fromtitle=DNS%E5%8A%AB%E6%8C%81&fromid=6739044&fr=aladdin)、[dns污染](https://baike.baidu.com/item/DNS%E6%B1%A1%E6%9F%93)和[ip封锁](https://baike.baidu.com/item/ip%E5%B0%81%E9%94%81)等手段)进行网络封锁。下图是百度百科对GFW（俗称“墙”）的介绍（点击图片可查看详细介绍）
 [![GFW](https://www.louimg.com/u/20200312/11050110.png "点击图片查看GFW的介绍")](https://baike.baidu.com/item/Great%20Firewall/4843556?fromtitle=GFW&fromid=18582731&fr=aladdin)
