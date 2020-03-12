@@ -1,5 +1,6 @@
-===
+RRRRRRRRRR
 
+===
 # 国内网络基本了解
 大家都知道，我们中国对网络的限制比较严格，不是所有的网站咱们都能浏览。国家主要通过GFW进行网络封锁。下图是百度百科对GFW（俗称“墙”）的介绍
 [![GFW](https://www.louimg.com/u/20200312/11050110.png "点击图片查看GFW的介绍")](https://baike.baidu.com/item/Great%20Firewall/4843556?fromtitle=GFW&fromid=18582731&fr=aladdin)
