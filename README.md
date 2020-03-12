@@ -20,10 +20,11 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ## 关于[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
 ### 1. 什么是[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
 随着VPN的没落，现在主流的科学上网方式是大家经常听的SS（Shadowsocks）、ssr（ShadowsocksR）、V2(v2ray)、Trojan等等这些代理工具，还有基于这些代理工具的原理，扩展衍生出的在各平台使用且支持以上几种翻墙协议的科学上网工具，如clash、shadowrocket、Quantumult、Pharos Pro等等非常多。<br>
-这些工具的统一特点就是：需要自行在服务端和客户端上部署，比一键VPN方法更“繁琐”，但优点就是更加安全、速度更快。其中服务端的部署有两种情况：<br>
+这些工具的统一特点就是：工具自身没有翻墙功能，需要自行在服务端和客户端上部署，看似比一键VPN方法“繁琐”，但优点就是更加安全、速度更快。其中服务端的部署有两种情况：<br>
 第一种是我们自己购买vps部署，这就是人们常说的我自己搭建节点。<br>
-第二种，也是目前用的最多的科学上网方式，就是有人为我们部署好了，我们直接用就可以，提供这项服务的就是[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)。<br>
+第二种，也是目前用的最多的科学上网方式，就是有人替我们部署好了，直接用就可以，提供这项服务的就是[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)。<br>
 服务端部署好后，我们只需将服务器地址、端口这些基本信息添加到我们电脑或手机上的代理工具里，这就是客户端部署，这就实现了科学上网。
 ### 2. [机场](https://stc-spades-beta1.com/auth/register?code=9JIx)的选择
+大家在购买机场时候，会经常见到BGP中转、IPLC专线这两个名词。至于他们的专业意义，自行google查询。对于很多不是专业研究这个的伙伴，就算我们查询了，也可能是半懂状态。这里我们首先来看我们
 
 
