@@ -11,11 +11,11 @@
       * [主观层面](#主观层面)<br>
     * [我的机场](#3-我的机场)<br>
 * [主流科学上网工具下载](#主流科学上网工具下载)<br>
-  * [Shadowsocks](#Shadowsocks(简称SS))
-  * [ShadowsocksR](#ShadowsocksR(简称SSR))
-  * [V2ray](#V2ray(简称V2))
+  * [Shadowsocks](#Shadowsocks简称SS)
+  * [ShadowsocksR](#ShadowsocksR简称SSR)
+  * [V2ray](#V2ray简称V2)
   * [clash](#clash)
-    * [ClashR.for.Windows汉化版，支持SSR和V2订阅](#ClashR.for.Windows汉化版，支持SSR和V2订阅)  
+    * [ClashR.for.Windows汉化版，支持SSR和V2订阅](#ClashRforWindows汉化版支持SSR和V2订阅)  
  * [Trojan](#Trojan)
  * [Mellow](#Mellow)
 ***
