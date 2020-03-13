@@ -16,8 +16,8 @@
   * [V2ray](#V2ray简称V2)
   * [clash](#clash)
     * [ClashR.for.Windows汉化版，支持SSR和V2订阅](#ClashRforWindows汉化版支持SSR和V2订阅)  
- * [Trojan](#Trojan)
- * [Mellow](#Mellow)
+  * [Trojan](#Trojan)
+  * [Mellow](#Mellow)
 ***
 
 # 国内网络基本了解
