@@ -97,7 +97,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * V2ray的Mac端图形界面工具V2RayX和V2RayU
   * [V2RayX](https://github.com/Cenmrev/V2RayX/releases)<br>
   * [V2RayU](https://github.com/yanue/V2rayU/releases)<br>
-* [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)[回到顶部](#readme)
+* [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
+[回到顶部](#readme)
 ## clash
 * [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 #### Clash.for.Windows汉化版，支持SSR和V2订阅
@@ -110,7 +111,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [Trojan(Win)图形界面工具](https://www.lanzous.com/ia7vc3i)
 * [Trojan(Mac)图形界面工具](https://www.lanzous.com/ia7vbva)
 * [Trojan（Android）](https://www.lanzous.com/ia7vbhg)
-* [Trojan的Windows、macOS、Linux三大平台命令行工具](https://github.com/trojan-gfw/trojan/releases)[回到顶部](#readme)
+* [Trojan的Windows、macOS、Linux三大平台命令行工具](https://github.com/trojan-gfw/trojan/releases)<br>
+[回到顶部](#readme)
 ## Mellow
 Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。<br>
 * Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)<br>
