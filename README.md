@@ -80,7 +80,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [回到顶部](#readme)
 ***
 
-# 三、主流科学上网工具下载
+# 三、主流科学上网工具下载(包含Win、Mac、Android三大平台)
 ## Shadowsocks（简称SS）
 * [Shadowsocks（Win）](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
 * [Shadowsocks（Mac）](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)<br>
@@ -114,10 +114,10 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ## Mellow
 Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。<br>
 * Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)<br>
+`关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、Quantumult、Pharos等，都需要用非大陆AppleID下载且收费，请大家自行注册购买`
 [回到顶部](#readme)
 ***
-
-# 其它
+# 欢迎加入电报群一起交流，共同进步： https://t.me/cl1024cool
 
 
 
