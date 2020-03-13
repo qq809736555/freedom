@@ -1,4 +1,4 @@
-本文是一个成熟小白关于科学上网的一些杂谈，发现错误的地方欢迎斧正，文中只要看到“回到顶部”四个字，点击即可回到目录，点击目录也会跳到相应模块。
+本文是一个成熟小白关于科学上网的一些杂谈，发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。
 * [国内网络基本了解](#国内网络基本了解)<br>
 * [科学上网](#科学上网)<br>
   * [没落的“VPN”](#没落的VPN)<br>
@@ -75,8 +75,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 
 综述，个人认为主观方面的判断有时候可能比技术层面更重要，机场速度再快，再稳定，如果一段时间就跑路了，那还是掉坑了，所以我更看重主观层面的判断，我用的是[STC机场](https://stc-spades-beta1.com/auth/register?code=9JIx)，用了将近一年多，随着机场的几次升级，我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，唯一不足就是特么（请允许我吐槽一下）价格有点略高，好在是服务质量与价格还算对等，因我自己也买过跑路的机场，身边很多朋友、网友也跟我说被坑过，所以非常看重这方面。[回到顶部](#readme)
 ### 3. 我的[机场]
-* [SSR、V2ray机场：STC](https://stc-spades-beta1.com/auth/register?code=9JIx)<br>
-* [Trojan机场：](https://portal.shadowsocks.nl/aff.php?aff=28409)原来的老牌shadowsocks机场升级为Trojan机场<br>
+* SSR、V2ray机场：STC，[官网](https://stc-spades-beta1.com/auth/register?code=9JIx)<br>
+* Trojan机场，原来的老牌shadowsocks机场升级为Trojan机场。[官网](https://portal.shadowsocks.nl/aff.php?aff=28409)<br>
 [回到顶部](#readme)
 ***
 
