@@ -84,9 +84,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 特别说明：官方的Windows客户端是英文，且只支持SS、Vmess、socks5和HTTP协议，这里有一个大神编译的汉化版本且支持SSR和V2ray的订阅：[ClashR.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)
 ### [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
 ### [clash（Android）](https://github.com/Kr328/ClashForAndroid)<br>
-## V2ray（简称V2）
-### [V2ray（Win）](https://github.com/Cenmrev/V2RayW/releases)<br>
-### [V2ray（Mac）](https://github.com/Cenmrev/V2RayX/releases)<br>
-### [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
+## Mellow
+Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。
+Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)
 
 
