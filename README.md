@@ -104,7 +104,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * 特别说明：官方的Windows客户端是英文，且只支持SS、Vmess、socks5和HTTP协议，这里有一个大神编译的汉化版本且支持SSR和V2ray的订阅<br>
 * [ClashR.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)<br>
 * [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
-* [clash（Android）](https://github.com/Kr328/ClashForAndroid)<br>
+* [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
 [回到顶部](#readme)
 ## Trojan
 * [Trojan(Win)图形界面工具](https://www.lanzous.com/ia7vc3i)
