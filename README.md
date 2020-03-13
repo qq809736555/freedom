@@ -18,6 +18,8 @@
 [![GFW](https://www.louimg.com/u/20200312/11050110.png "GFW的介绍")]
 大家主要看红圈里的文字，GFW的功劳：让国民政治觉悟提升了不少，所以GFW只会越来越完善。但对于大多数网民来说，网络是我们学习、工作、美好生活的重要工具，GFW一定程度上把好多对我们学习、工作有帮助的综合性很强的技术、学术网站、社交网站等也拒之门外。
 <br>大家经常听说的网站如[油管YouTube](https://www.youtube.com)、[脸书Facebook](https://www.facebook.com/)、[推特Twitter](https://twitter.com)、[电报telegram](https://telegram.org/)、[谷歌google](https://www.google.com.hk/)、[维基百科](https://zh.wikipedia.org/)等，这些我们都是无法正常访问的。需要科学上网（俗称翻墙）才能上。所以，这种背景下，也就出现了各种各样的突破GFW限制的工具，突破网络审查的软件通常被称作翻墙软件，俗称梯子。翻墙软件并不只是大家理解的VPN软件，还有基于其它协议的代理软件。[回到顶部](#readme)
+***
+
 # 科学上网
 ## 没落的“VPN”
 #### 1. 什么是VPN 
@@ -29,6 +31,8 @@ GFW机制加上劳动人民的无穷智慧，促使聪慧的劳动人民开始�
 #### 3. 先入为主的“翻墙”
 VPN作为过去很长一段时间最主流最热门最常用最为人所知的翻墙手段，已然成为翻墙的代名词。即便是VPN已不再常用的今天，当人们谈及翻墙的时候，说得最多的仍是：“你有什么好用的vpn吗？”<br>
 时代在进步，GFW也在不断加强，科学上网技术也要不断更新，更高效、安全性更高、速度更快的科学上网技术迟早会替代VPN成为新的霸主。[回到顶部](#readme)
+***
+
 ## 关于[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
 ### 1. 什么是[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
 随着VPN的没落，现在主流的科学上网方式是大家经常听的SS（Shadowsocks）、ssr（ShadowsocksR）、V2(v2ray)、Trojan等等这些代理工具，还有基于这些代理工具的原理，扩展衍生出的在各平台使用且支持以上几种翻墙协议的科学上网工具，如clash、shadowrocket、Quantumult、Pharos Pro等等非常多。<br>
@@ -59,9 +63,14 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * 机场的测速<br>
 有些机场有试用，可试用测速。但个人建议测速的话，可以先尝试按流量去购买机场的服务，一般1G也就不到1元，管够测速使用了。这里建议测试分多个时间段去测，再把每个时间段的测速结果去做个平均，看是否满足你心理预期。
 * 机场价格<br>
-这个其实不好评判，因为每个人心理的标准都不一样，个人感觉，只要体验感和他的价格对称就行，毕竟，人家开机场的最终目的还是赚钱。[回到顶部](#readme)
-### 3. 我的[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
+这个其实不好评判，因为每个人心理的标准都不一样，个人感觉，只要体验感和他的价格对称就行，毕竟，人家开机场的最终目的还是赚钱。<br>
+
 综述，个人认为主观方面的判断有时候可能比技术层面更重要，机场速度再快，再稳定，如果一段时间就跑路了，那还是掉坑了，所以我更看重主观层面的判断，我用的是[STC机场](https://stc-spades-beta1.com/auth/register?code=9JIx)，用了将近一年多，随着机场的几次升级，我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，唯一不足就是特么（请允许我吐槽一下）价格有点略高，好在是服务质量与价格还算对等，因我自己也买过跑路的机场，身边很多朋友、网友也跟我说被坑过，所以非常看重这方面。[回到顶部](#readme)
+### 3. 我的[机场]
+* [SSR、V2ray机场](https://stc-spades-beta1.com/auth/register?code=9JIx)<br>
+* [Trojan机场](https://portal.shadowsocks.nl/aff.php?aff=28409)
+***
+
 # 主流科学上网工具下载
 ## Shadowsocks（简称SS）
 * [Shadowsocks（Win）](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
@@ -93,7 +102,10 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [Trojan的Windows、macOS、Linux三大平台命令行工具](https://github.com/trojan-gfw/trojan/releases)
 ## Mellow
 Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。<br>
-* Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)<br>
+* Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)
+***
+
+# 其它
 
 
 
