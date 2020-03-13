@@ -11,7 +11,7 @@
       * [技术层面](#技术层面)<br>
       * [主观层面](#主观层面)<br>
   * [No3、我的机场](#我的机场)<br>
-* [三、主流科学上网工具下载(包含Win、Mac、Android三大平台)](#主流科学上网工具下载包含winmacandroid三大平台)<br>
+* [三、主流科学上网工具下载(包含Win、Mac、Android三大平台)](#三主流科学上网工具下载包含winmacandroid三大平台)<br>
   * [Shadowsocks](#Shadowsocks简称SS)
   * [ShadowsocksR](#ShadowsocksR简称SSR)
   * [V2ray](#V2ray简称V2)
