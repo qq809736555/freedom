@@ -1,17 +1,17 @@
 本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。
-* [国内网络基本了解](#国内网络基本了解)<br>
-* [科学上网](#科学上网)<br>
-  * [没落的“VPN”](#没落的VPN)<br>
+* [一、国内网络基本了解](#一、国内网络基本了解)<br>
+* [二、科学上网](#二、科学上网)<br>
+  * [1、没落的“VPN”](#没落的VPN)<br>
     * [什么是VPN](#1-什么是VPN )<br>
     * [VPN现状](#2-VPN现状)<br>
     * [先入为主的“翻墙](#3-先入为主的翻墙)<br>
-  * [关于机场](#关于机场)<br>
+  * [2、关于机场](#关于机场)<br>
     * [什么是机场](#1-什么是机场)<br>
     * [机场的选择](#2-机场的选择)<br>
       * [技术层面](#技术层面)<br>
       * [主观层面](#主观层面)<br>
-  * [我的机场](#我的机场)<br>
-* [主流科学上网工具下载](#主流科学上网工具下载)<br>
+  * [3、我的机场](#我的机场)<br>
+* [三、主流科学上网工具下载](#三、主流科学上网工具下载)<br>
   * [Shadowsocks](#Shadowsocks简称SS)
   * [ShadowsocksR](#ShadowsocksR简称SSR)
   * [V2ray](#V2ray简称V2)
@@ -21,14 +21,14 @@
   * [Mellow](#Mellow)
 ***
 
-# 国内网络基本了解
+# 一、国内网络基本了解
 大家都知道，我们中国对网络的限制比较严格，不是所有的网站咱们都能浏览。国家主要通过GFW([dns劫持](https://baike.baidu.com/item/%E5%9F%9F%E5%90%8D%E5%8A%AB%E6%8C%81/7657893?fromtitle=DNS%E5%8A%AB%E6%8C%81&fromid=6739044&fr=aladdin)、[dns污染](https://baike.baidu.com/item/DNS%E6%B1%A1%E6%9F%93)和[ip封锁](https://baike.baidu.com/item/ip%E5%B0%81%E9%94%81)等手段)进行网络封锁。下图是百度百科对GFW（俗称“墙”）的介绍
 [![GFW](https://www.louimg.com/u/20200312/11050110.png "GFW的介绍")]
 大家主要看红圈里的文字，GFW的功劳：让国民政治觉悟提升了不少，所以GFW只会越来越完善。但对于大多数网民来说，网络是我们学习、工作、美好生活的重要工具，GFW一定程度上把好多对我们学习、工作有帮助的综合性很强的技术、学术网站、社交网站等也拒之门外。
 <br>大家经常听说的网站如[油管YouTube](https://www.youtube.com)、[脸书Facebook](https://www.facebook.com/)、[推特Twitter](https://twitter.com)、[电报telegram](https://telegram.org/)、[谷歌google](https://www.google.com.hk/)、[维基百科](https://zh.wikipedia.org/)等，这些我们都是无法正常访问的。需要科学上网（俗称翻墙）才能上。所以，这种背景下，也就出现了各种各样的突破GFW限制的工具，突破网络审查的软件通常被称作翻墙软件，俗称梯子。翻墙软件并不只是大家理解的VPN软件，还有基于其它协议的代理软件。[回到顶部](#readme)
 ***
 
-# 科学上网
+# 二、科学上网
 ## 没落的“VPN”
 #### 1. 什么是VPN 
 VPN全称“虚拟私人网络（Virtual Private Network）”，VPN是一个统称。VPN是一种加密通讯技术，它被设计出来的目的是数据传输安全和网络匿名。它有很多的具体实现，比如PPTP、L2TP、IPSec和openvpn。它的出现远早于GFW，所以它不是为了翻墙而生的，维基百科里关于VPN的介绍，说它的特殊使用才是翻墙。
@@ -74,13 +74,13 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 这个其实不好评判，因为每个人心理的标准都不一样，个人感觉，只要体验感和他的价格对称就行，毕竟，人家开机场的最终目的还是赚钱。<br>
 
 综述，个人认为主观方面的判断有时候可能比技术层面更重要，机场速度再快，再稳定，如果一段时间就跑路了，那还是掉坑了，所以我更看重主观层面的判断，我用的是[STC机场](https://stc-spades-beta1.com/auth/register?code=9JIx)，用了将近一年多，随着机场的几次升级，我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，唯一不足就是特么（请允许我吐槽一下）价格有点略高，好在是服务质量与价格还算对等，因我自己也买过跑路的机场，身边很多朋友、网友也跟我说被坑过，所以非常看重这方面。[回到顶部](#readme)
-## 我的[机场]
+### 我的[机场]
 * SSR、V2ray机场：STC，[官网](https://stc-spades-beta1.com/auth/register?code=9JIx)<br>
 * Trojan机场，原来的老牌shadowsocks机场升级为Trojan机场，目前机场的名字就叫shadowsocks。[官网](https://portal.shadowsocks.nl/aff.php?aff=28409)<br>
 [回到顶部](#readme)
 ***
 
-# 主流科学上网工具下载
+# 三、主流科学上网工具下载
 ## Shadowsocks（简称SS）
 * [Shadowsocks（Win）](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
 * [Shadowsocks（Mac）](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)<br>
