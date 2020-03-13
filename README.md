@@ -71,8 +71,12 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ### [ShadowsocksR（Mac）](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
 ### [ShadowsocksR（Android）](https://github.com/shadowsocksrr/shadowsocksr-android/releases)<br>
 ## V2ray（简称V2）
-### [V2ray（Win）](https://github.com/Cenmrev/V2RayW/releases)<br>
-### [V2ray（Mac）](https://github.com/Cenmrev/V2RayX/releases)<br>
+### V2ray的Windows端图形界面工具V2RayW和V2RayN
+[V2RayW](https://github.com/Cenmrev/V2RayW/releases)<br>
+[V2RayN](https://github.com/2dust/v2rayN/releases)<br>
+### V2ray的Mac端图形界面工具V2RayX和V2RayU
+[V2RayX](https://github.com/Cenmrev/V2RayX/releases)<br>
+[V2RayU](https://github.com/yanue/V2rayU/releases)<br>
 ### [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
 ## clash
 ### [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
