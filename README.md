@@ -66,7 +66,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ### [Shadowsocks（Win）](https://github.com/shadowsocks/shadowsocks-windows/releases)<br>
 ### [Shadowsocks（Mac）](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)<br>
 ### [Shadowsocks（Android）](https://github.com/shadowsocks/shadowsocks-android/releases)<br>
-## ShadowsocksR（简称ssr）
+## ShadowsocksR（简称SSR）
 ### [ShadowsocksR（Win）](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)<br>
 ### [ShadowsocksR（Mac）](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)<br>
 ### [ShadowsocksR（Android）](https://github.com/shadowsocksrr/shadowsocksr-android/releases)<br>
@@ -74,3 +74,15 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ### [V2ray（Win）](https://github.com/Cenmrev/V2RayW/releases)<br>
 ### [V2ray（Mac）](https://github.com/Cenmrev/V2RayX/releases)<br>
 ### [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
+## clash
+### [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)<br>
+#### ClashR.for.Windows汉化版，支持SSR和V2订阅
+特别说明：官方的Windows客户端是英文，且只支持SS、Vmess、socks5和HTTP协议，这里有一个大神编译的汉化版本且支持SSR和V2ray的订阅：[ClashR.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)
+### [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
+### [clash（Android）](https://github.com/Kr328/ClashForAndroid)<br>
+## V2ray（简称V2）
+### [V2ray（Win）](https://github.com/Cenmrev/V2RayW/releases)<br>
+### [V2ray（Mac）](https://github.com/Cenmrev/V2RayX/releases)<br>
+### [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
+
+
