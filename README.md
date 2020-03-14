@@ -126,7 +126,7 @@ Mellow 是一个基于规则的全局透明代理工具，可以运行在 Window
 ***
 
 `关于iOS平台的科学上网工具，目前支持协议较完善的有shadowrocket、suerge、Quantumult、Pharos等，需要用非大陆AppleID下载且收费，请大家自行注册购买`
-# 欢迎加入电报群一起交流，共同进步： https://t.me/cl1024cool
+# 欢迎加入电报群一起交流，共同进步： https://t.me/sxcool1024g
 
 
 
