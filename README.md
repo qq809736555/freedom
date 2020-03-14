@@ -24,7 +24,7 @@
     * [Clash.for.Windows汉化版，支持SSR和V2订阅](#ClashforWindows汉化版支持SSR和V2订阅)  
   * [Trojan](#Trojan)
   * [Mellow](#Mellow)<br>
-* [四、其它实用资源、工具](四其它实用资源工具)
+* [四、其它实用资源、工具](#四其它实用资源工具)
 ***
 
 # 一、国内网络基本了解
@@ -131,9 +131,9 @@ Mellow 是一个基于规则的全局透明代理工具，可以运行在 Window
 * 百度云盘搜索工具，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。[官网]()<br>
 
 * [草榴官网（需科学上网）](http://t66y.com/index.php?u=297138&ext=e4669)<br>
-* [草榴Android](https://github.com/yuuwill/1024app-android/releases)<br>
-* [草榴iOS](https://github.com/yuuwill/1024app-ios/releases)<br>
-* [91app](http://app.91porn005.me:2082/aff-afeFw)<br>
+* [草榴Android下载地址](https://github.com/yuuwill/1024app-android/releases)<br>
+* [草榴iOS下载地址](https://github.com/yuuwill/1024app-ios/releases)<br>
+* [91app安装地址](http://app.91porn005.me:2082/aff-afeFw)<br>
 
 ***
 
