@@ -109,8 +109,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ## clash
 * [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 #### Clash.for.Windows汉化版，支持SSR和V2订阅
-* 特别说明：官方的Windows客户端是英文，且只支持SS、Vmess、socks5和HTTP协议，这里有一个大神编译的汉化版本且支持SSR和V2ray的订阅<br>
-* [Clash.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)<br>
+特别说明：官方的Windows客户端是英文，且只支持SS、Vmess、socks5和HTTP协议，这里有一个大神编译的汉化版本且支持SSR和V2ray的订阅<br>
+[Clash.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)<br>
 * [clash（Mac）](https://github.com/yichengchen/clashX/releases)<br>
 * [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
 [回到顶部](#readme)
