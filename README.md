@@ -128,8 +128,9 @@ Mellow 是一个基于规则的全局透明代理工具，可以运行在 Window
 
 # 四、其它实用资源、工具
 * 手机影视三大神器，摆脱爱奇艺、优酷、腾讯平台的广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)<br>
-* 百度云盘搜索工具，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。[官网]()<br>
-
+* 黑鸟视频播放器（自带直播源，持续更新，只有Windows版）[官网](https://guihet.com/blackbird-player.html)<br>
+* 百度云盘搜索工具，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。[下载地址](https://www.lanzous.com/i9wiekd)<br>
+* 百度网盘文件下载工具pandownload。[官网](https://pandownload.com/)<br>
 * [草榴官网（需科学上网）](http://t66y.com/index.php?u=297138&ext=e4669)<br>
 * [草榴Android下载地址](https://github.com/yuuwill/1024app-android/releases)<br>
 * [草榴iOS下载地址](https://github.com/yuuwill/1024app-ios/releases)<br>
