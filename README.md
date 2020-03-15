@@ -1,4 +1,4 @@
-本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。<br>`2020年3月15日更新：新增CFW使用说明书`
+本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。<br>`2020年3月15日更新：新增CFW使用说明书、netch、Pharos Pro`
 * [一、国内网络基本了解](#一国内网络基本了解)<br>
 * [二、科学上网](#二科学上网)<br>
   * [No1、没落的“VPN”](#没落的VPN)<br>
@@ -24,6 +24,8 @@
     * [Clash.for.Windows汉化版，支持SSR和V2订阅](#ClashforWindows汉化版支持SSR和V2订阅)  
   * [Trojan](#Trojan)
   * [Mellow](#Mellow)<br>
+  * [Netch](#netch)<br>
+  * [Pharos Pro](#pharos-pro)<br>
 * [四、其它实用资源、工具](#四其它实用资源工具)
 ***
 
@@ -124,6 +126,13 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ## Mellow
 Mellow 是一个基于规则的全局透明代理工具，可以运行在 Windows、macOS 和 Linux 上，也可以配置成路由器透明代理或代理网关，支持 SOCKS、HTTP、Shadowsocks、VMess 等多种代理协议。<br>
 * Mellow的[Windows、macOS和Linux安装文件下载](https://github.com/mellow-io/mellow/releases)<br>
+## Netch
+Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代理的SSTap不同，Netch更类似于SocksCap64，后者可以扫描游戏目录以专门获取其进程名称并通过代理服务器转发其网络流量。现在支持Socks5，Shadowsocks，ShadowsocksR，VMess。<br>
+同样，Netch避免了由SSTap引起的受限NAT问题。您可以使用NATTypeTester来测试您的NAT类型。当使用SSTap加速某些P2P游戏连接或该开放式NAT类型需要游戏时，您可能会遇到一些不好的情况，例如无法加入游戏。<br>
+* [Netch下载](https://github.com/NetchX/Netch/releases)<br>
+## Pharos Pro
+* [Pharos Pro(Android)](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
+* Pharos Pro(iOS)，登录非大陆AppleID下载。<br>
 [回到顶部](#readme)
 ***
 
