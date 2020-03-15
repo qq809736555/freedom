@@ -1,4 +1,4 @@
-本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。<br>`2020年3月14日更新：新增实用资源、工具模块`
+本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。<br>`2020年3月15日更新：新增CFW使用说明书`
 * [一、国内网络基本了解](#一国内网络基本了解)<br>
 * [二、科学上网](#二科学上网)<br>
   * [No1、没落的“VPN”](#没落的VPN)<br>
@@ -107,7 +107,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [V2ray（Android）](https://github.com/2dust/v2rayNG/releases)<br>
 [回到顶部](#readme)
 ## clash
-* [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+* [clash（Win）简称CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases) <br>
+* [CFW使用说明书](https://docs.cfw.lbyczf.com/)
 #### Clash.for.Windows汉化版，支持SSR和V2订阅
 特别说明：官方的Windows客户端是英文，且只支持SS、Vmess、socks5和HTTP协议，这里有一个大神编译的汉化版本且支持SSR和V2ray的订阅<br>
 [Clash.for.Windows-0.8.5汉化版](https://www.lanzous.com/i9zpaji)<br>
