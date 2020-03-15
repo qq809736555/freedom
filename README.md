@@ -24,8 +24,8 @@
     * [Clash.for.Windows汉化版，支持SSR和V2订阅](#ClashforWindows汉化版支持SSR和V2订阅)  
   * [Trojan](#Trojan)
   * [Mellow](#Mellow)<br>
-  * [Netch](#netch)<br>
-  * [Pharos Pro](#pharos-pro)<br>
+  * [Netch(Win)](#netch)<br>
+  * [Pharos Pro(Android)](#pharos-pro)<br>
 * [四、其它实用资源、工具](#四其它实用资源工具)
 ***
 
