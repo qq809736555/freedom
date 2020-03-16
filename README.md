@@ -82,10 +82,14 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 ##### 机场价格
 这个其实不好评判，因为每个人心理的标准都不一样，个人感觉，只要体验感和机场的价格对称就行。没有哪个贵，哪个便宜之说，都是相对的。要根据自己的实际需求去购买，这跟咱们平时买车一样，好车就是体验好，但价格也不便宜。<br>
 
-综述，个人认为主观方面的判断有时候可能比技术层面更重要，机场速度再快，再稳定，如果一段时间就跑路了，那还是掉坑了，所以我更看重主观层面的判断，我用的是[STC机场](https://stc-spades-beta1.com/auth/register?code=9JIx)，用了将近一年多，随着机场的几次升级，我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等，因我自己也买过跑路的机场，身边很多朋友、网友也跟我说被坑过，所以非常看重这方面。[回到顶部](#readme)
-## 我的[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
+综述，个人认为主观方面的判断有时候可能比技术层面更重要，机场速度再快，再稳定，如果一段时间就跑路了，那还是掉坑了，所以我更看重主观层面的判断。因我自己也买过跑路的机场，身边很多朋友、网友也跟我说被坑过，所以非常看重这方面。[回到顶部](#readme)
+## 我的[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)<br>
 * SSR、V2ray机场：STC，[官网](https://stc-spades-beta1.com/auth/register?code=9JIx)<br>
-* Trojan机场，原来的老牌shadowsocks机场升级为Trojan机场，目前机场的名字就叫shadowsocks。[官网](https://portal.shadowsocks.nl/aff.php?aff=28409)<br>
+我用的是[STC机场](https://stc-spades-beta1.com/auth/register?code=9JIx)，用了将近一年多，随着机场的几次升级，我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等。看YouTube4K视频、Netflix等视频网站没有任何问题。也可以去看一下[毒药大佬关于STC的测评]。(https://www.duyaoss.com/archives/1673/)<br>
+* Trojan机场，[官网](https://portal.shadowsocks.nl/aff.php?aff=28409)，原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升。<br>
+我是用的移动300M宽带，平时翻墙会看奈飞和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：<br>
+在一些高峰时段，Trojan机场看YouTube4K偶尔会出现卡顿，STC很少出现这种情况。<br>
+下载视频时候，STC是完全秒杀我的Trojan机场的，STC的下载速度能达到8M~12M,但我的Trojan机场的下载速度只有1M多。<br>
 [回到顶部](#readme)
 ***
 
