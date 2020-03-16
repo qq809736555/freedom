@@ -118,9 +118,8 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [clash（Android）](https://github.com/Kr328/ClashForAndroid/releases)<br>
 [回到顶部](#readme)
 ## Trojan
-* [Trojan(Win)图形界面工具](https://www.lanzous.com/ia7vc3i)
-* [Trojan(Mac)图形界面工具](https://www.lanzous.com/ia7vbva)
-* [Trojan（Android）](https://www.lanzous.com/ia7vbhg)
+* [Trojan-Qt5(Win+Mac)图形界面工具](https://github.com/TheWanderingCoel/Trojan-Qt5/releases)
+* [Trojan-Qt5（Android）](https://www.lanzous.com/ia7vbhg)
 * [Trojan的Windows、macOS、Linux三大平台命令行工具](https://github.com/trojan-gfw/trojan/releases)<br>
 [回到顶部](#readme)
 ## Mellow
