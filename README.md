@@ -19,8 +19,8 @@
 * [三、主流科学上网工具下载(包含Win、Mac、Android三大平台)](#三主流科学上网工具下载包含winmacandroid三大平台)<br>
   * [Shadowsocks](#Shadowsocks简称SS)
   * [ShadowsocksR](#ShadowsocksR简称SSR)
-  * [V2ray](#V2ray简称V2)
-  * [clash](#clash)
+  * [V2ray(含官方使用手册)](#V2ray简称V2)
+  * [clash(含CFW使用说明书)](#clash)
     * [Clash.for.Windows汉化版，支持SSR和V2订阅](#ClashforWindows汉化版支持SSR和V2订阅)  
   * [Trojan](#Trojan)
   * [Mellow](#Mellow)<br>
@@ -108,6 +108,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 * [ShadowsocksR（Android）](https://github.com/shadowsocksrr/shadowsocksr-android/releases)<br>
 [回到顶部](#readme)
 ## V2ray（简称V2）
+* [V2ray官方使用手册](https://www.v2ray.com/)
 * V2ray的Windows端图形界面工具V2RayW和V2RayN
   * [V2RayW](https://github.com/Cenmrev/V2RayW/releases)<br>
   * [V2RayN](https://github.com/2dust/v2rayN/releases)<br>
