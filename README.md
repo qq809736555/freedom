@@ -147,7 +147,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 ***
 
 # 四、其它实用资源、工具
-* [Android短信轰炸机](https://www.lanzous.com/ia0jtgj)
+* [Android短信轰炸机(付费版)](https://www.lanzous.com/ia0jtgj)
 * 手机影视三大神器，摆脱爱奇艺、优酷、腾讯平台的广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)<br>
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
 * 百度云盘搜索工具[下载地址](https://www.lanzous.com/i9wiekd)，六个搜索引擎，搜索整个百度云库，急速高效，自带提权码。<br>
