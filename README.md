@@ -157,6 +157,8 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 * [草榴iOS下载地址](https://github.com/yuuwill/1024app-ios/releases)<br>
 * [91app安装地址](http://app.91porn005.me:2082/aff-afeFw)<br>
 * [iPhone通过快捷指令下载YouTube、Twitter视频](https://twitter.com/sxcool1024/status/1236090141606694912?s=20)<br>
+* [国际版抖音TikTok破解版iOS](https://www.lanzous.com/iaiv87e)<br>
+* [国际版抖音TikTok破解版Android](https://www.lanzous.com/iaiv17c)<br>
 [回到顶部](#readme)
 ***
 
