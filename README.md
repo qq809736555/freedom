@@ -88,7 +88,7 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 [STC机场](https://stc-spades-beta1.com/auth/register?code=9JIx)用了将近一年多，随着机场的几次升级，给我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等。看YouTube4K视频、Netflix等视频网站没有任何问题。也可以去看一下[毒药大佬关于STC的测评](https://www.duyaoss.com/archives/1673/)。<br>
 * Trojan机场：shadowsocks，[官网](https://portal.shadowsocks.nl/aff.php?aff=28409)<br>
 原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升,下图是该机场在3月21日给客户发的邮件，从服务升级到补差价，感觉是从客户角度出发在考虑做更好的服务。<br>
-[![Trojan机场](https://www.louimg.com/u/20200323/15163186.jpg "Trojan机场")]
+![Trojan机场](https://www.louimg.com/u/20200323/15163186.jpg "Trojan机场")
 * 综合使用感受<br>
 我是用的移动300M宽带，平时翻墙会看Netflix和YouTube多点，而且经常会下载一些视频资源，两个机场配合使用完全能满足我的日常需求，用起来的区别就是：<br>
   * 在一些高峰时段，Trojan机场看YouTube4K偶尔会出现卡顿，STC很少出现这种情况。<br>
