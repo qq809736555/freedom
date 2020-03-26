@@ -49,14 +49,14 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 时代在进步，GFW也在不断加强，科学上网技术也要不断更新，更高效、安全性更高、速度更快的科学上网技术迟早会替代VPN成为新的霸主。[回到顶部](#readme)
 ***
 
-## 关于[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
-### 1. 什么是[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)
+## 关于[机场](https://t.co/fdfliso9wM?amp=1)
+### 1. 什么是[机场](https://t.co/fdfliso9wM?amp=1)
 随着VPN的没落，现在主流的科学上网方式是大家经常听的SS（Shadowsocks）、ssr（ShadowsocksR）、V2(v2ray)、Trojan等等这些代理工具，还有基于这些代理工具的原理，扩展衍生出的在各平台使用且支持以上几种翻墙协议的科学上网工具，如clash、shadowrocket、Quantumult、Pharos Pro等等非常多。<br>
 这些工具的统一特点就是：工具自身没有翻墙功能，需要自行在服务端和客户端上部署，优点就是更加安全、速度更快，看似比一键VPN方法“繁琐”，但实际操作非常简单，其中服务端的部署有两种情况：<br>
 第一种是我们自己购买vps部署，这就是人们常说的我自己搭建节点，喜欢折腾的伙伴可以自己去购买vps搭建，网上教程非常多<br>
-第二种，就是有人替我们部署好了，直接用就可以。这也是目前用的最多的科学上网方式，提供这项服务的就是[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)。<br>
+第二种，就是有人替我们部署好了，直接用就可以。这也是目前用的最多的科学上网方式，提供这项服务的就是[机场](https://t.co/fdfliso9wM?amp=1)。<br>
 服务端部署好后，我们只需将服务器地址、端口这些基本信息添加到我们电脑或手机上的代理工具里，这就是客户端部署，这就实现了科学上网。现在很多工具都支持一键订阅，多数机场也提供了订阅链接，不需要我们手动逐一添加节点。[回到顶部](#readme)
-### 2. [机场](https://stc-spades-beta1.com/auth/register?code=9JIx)的选择
+### 2. [机场](https://t.co/fdfliso9wM?amp=1)的选择
 #### 技术层面
 ##### BGP中转和IPLC的通俗理解
 大家在购买机场时候，会经常见到BGP中转、IPLC专线这些名词。至于他们的专业意义，自行google查询。对于很多不是专业研究这个的伙伴，就算我们查询了，也可能是似懂非懂的状态，所以这里不会给大家去深挖那些专业概念，我们尽量从小白角度出发，明白他们的所起的作用就行。<br>
@@ -83,10 +83,10 @@ VPN作为过去很长一段时间最主流最热门最常用最为人所知的�
 这个其实不好评判，因为每个人心理的标准都不一样，个人感觉，只要体验感和机场的价格对称就行。没有哪个贵，哪个便宜之说，都是相对的。要根据自己的实际需求去购买，这跟咱们平时买车一样，好车就是体验好，但价格也不便宜。<br>
 
 综述，个人认为主观方面的判断有时候可能比技术层面更重要，机场速度再快，再稳定，如果一段时间就跑路了，那还是掉坑了，所以我更看重主观层面的判断。因我自己也买过跑路的机场，身边很多朋友、网友也跟我说被坑过，所以非常看重这方面。[回到顶部](#readme)
-## 我的[机场](https://stc-spades-beta1.com/auth/register?code=9JIx)使用感受<br>
-* SSR、V2ray机场：STC，[官网](https://stc-spades-beta1.com/auth/register?code=9JIx)<br>
-[STC机场](https://stc-spades-beta1.com/auth/register?code=9JIx)用了将近一年多，随着机场的几次升级，给我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等。看YouTube4K视频、Netflix等视频网站没有任何问题。也可以去看一下[毒药大佬关于STC的测评](https://www.duyaoss.com/archives/1673/)。<br>
-* Trojan机场：shadowsocks，[官网](https://portal.shadowsocks.nl/aff.php?aff=28409)<br>
+## 我的[机场](https://t.co/fdfliso9wM?amp=1)使用感受<br>
+* SSR、V2ray机场：STC，[官网](https://t.co/fdfliso9wM?amp=1)<br>
+[STC机场](https://t.co/fdfliso9wM?amp=1)用了将近一年多，随着机场的几次升级，给我的体验感也由一般过渡到还行再到现在的好。也跟机场主聊过，去提一些建议，服务质量与价格还算对等。看YouTube4K视频、Netflix等视频网站没有任何问题。也可以去看一下[毒药大佬关于STC的测评](https://www.duyaoss.com/archives/1673/)。<br>
+* Trojan机场：shadowsocks，[官网](https://t.co/FEE38PDhE6?amp=1)<br>
 原来的老牌shadowsocks机场，在2020年2月份所有节点全部升级为Trojan，也是为了规避GFW，目前机场的名字还叫shadowsocks。这个机场我是从2015年开始使用，升级之后速度和稳定性都有了很大提升,下图是该机场在3月21日给客户发的邮件，从服务升级到补差价，感觉是从客户角度出发在考虑做更好的服务。<br>
 ![Trojan机场](https://www.louimg.com/u/20200323/15163186.jpg "Trojan机场")
 * 综合使用感受<br>
