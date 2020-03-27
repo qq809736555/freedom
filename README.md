@@ -26,6 +26,7 @@
   * [Mellow](#Mellow)<br>
   * [Netch(Win)](#netch)<br>
   * [Pharos Pro(Android)](#pharos-pro)<br>
+  * [shadowrocket基础教程及分组规则自动切换节点](#shadowrocket)<br>
 * [四、其它实用资源、工具](#四其它实用资源工具)
 ***
 
@@ -144,6 +145,10 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 ## Pharos Pro
 * [Pharos Pro(Android)](https://github.com/PharosVip/Pharos-Android-Test/releases)<br>
 * Pharos Pro(iOS)，登录非大陆AppleID下载。<br>
+[回到顶部](#readme)
+## shadowrocket
+* [ShadowRocket基础教程](http://laob.me/2300/)<br>
+* [ShadowRocket分组、规则自动切换节点](http://laob.me/2300/)<br>
 [回到顶部](#readme)
 ***
 
