@@ -1,4 +1,6 @@
-本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。<br>`2020年3月27日更新：新增国际版shadowrocket基础教程及分组规则自动切换节点`
+本文是一个微成熟小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。顺便会不断更新一些实用资源、工具等。发现错误的地方欢迎斧正。正文中点击“回到顶部”四个字即可回到目录，点击目录也会跳到相应模块。<br>
+`2020年3月27日更新：新增国际版shadowrocket基础教程及分组规则自动切换节点`<br>
+`                  新增洛雪音乐助手桌面版官网`
 * [一、国内网络基本了解](#一国内网络基本了解)<br>
 * [二、科学上网](#二科学上网)<br>
   * [No1、没落的“VPN”](#没落的VPN)<br>
@@ -153,7 +155,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 ***
 
 # 四、其它实用资源、工具
-* 洛雪音乐助手桌面版，目前用的最好用的听歌软件，90%以上都是无损资源，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
+* 洛雪音乐助手桌面版，目前用的最好用的听歌软件，聚合全网音乐资源，90%以上都是无损，可直接下载。[官网](https://github.com/lyswhut/lx-music-desktop/releases)<br>
 * [Android短信轰炸机(付费版)](https://www.lanzous.com/b00zc16sd)<br>
 * 手机影视三大神器，摆脱爱奇艺、优酷、腾讯平台的广告骚扰和会员限制：[小小影视永久官网](http://www.wangdunwen.com/?inviteCode=ID3WVM)、[南瓜影视永久官网](https://ng33.app/?channelCode=share?appkey=ayo1id&recommend=20965059)、[冬瓜影视永久官网](https://dg77.app/?channelCode=share?appkey=zphsu3&recommend=4897090)<br>
 * 黑鸟视频播放器[官网](https://guihet.com/blackbird-player.html)（自带直播源，持续更新，只有Windows版）<br>
