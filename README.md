@@ -148,7 +148,7 @@ Netch是一个开源游戏加速器。与需要添加规则以用作黑名单代
 [回到顶部](#readme)
 ## shadowrocket
 * [ShadowRocket基础教程](http://laob.me/2300/)<br>
-* [ShadowRocket分组、规则自动切换节点](http://laob.me/2300/)<br>
+* [ShadowRocket分组、规则自动切换节点](blog.minirplus.com/14472/)<br>
 [回到顶部](#readme)
 ***
 
